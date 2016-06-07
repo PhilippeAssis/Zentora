@@ -1,7 +1,7 @@
 @import url("default.css");
 
 .navbar {
-	background-color: #0080FF;
+	background-color: #008dc7;
 }
 
 .navbar-default .navbar-nav>li>a, .navbar-default .navbar-nav>li>a:hover, .navbar-default .navbar-nav>li>a:focus{
