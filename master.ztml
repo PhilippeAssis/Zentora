@@ -78,19 +78,16 @@
                     
 					<div class="list-group">
                         <div class="list-group-item sidebar-top subtheme">
-                            <h3 class="list-group-item-heading text-center sidebar-heading">Notices</h3>
+                            <h3 class="list-group-item-heading text-center sidebar-heading">Support</h3>
                         </div>
 						<a href="./" class="list-group-item">
-                            <p class="sidebar-notice">Homepage</p>
+                            <p class="sidebar-notice">Support</p>
                         </a>
-						<a href="http://sentora.org/" target="_blank" class="list-group-item">
-                            <p class="sidebar-notice">Sentora</p>
+						<a href="#" target="_blank" class="list-group-item">
+                            <p class="sidebar-notice">My plan</p>
                         </a>
-						<a href="http://forums.sentora.org/" target="_blank" class="list-group-item">
-                            <p class="sidebar-notice">Forums</p>
-                        </a>
-						<a href="http://docs.sentora.org/" target="_blank" class="list-group-item">
-                            <p class="sidebar-notice">Documentation</p>
+						<a href="#" target="_blank" class="list-group-item">
+                            <p class="sidebar-notice">Payment</p>
                         </a>
                     </div>
 					
