@@ -228,6 +228,12 @@
 				
             </div>
         </div>
+
+        <div class="navbar navbar-default navbar-static-bottom subtheme">
+			<div class="container">
+				Upuphost
+			</div>
+		</div>
 		
 		<script src="<# ui_tpl_assetfolderpath #>js/bootstrap-transition.js"></script>
 		<script src="<# ui_tpl_assetfolderpath #>js/bootstrap-alert.js"></script>
