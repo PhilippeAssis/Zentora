@@ -1,5 +1,5 @@
 @import url("default.css");
 
-.subtheme, .module-box-title, .panel-heading {
+.panel-heading {
 	background-color: #6d90a7;
 }
