@@ -71,7 +71,7 @@
                         </div>
 						<div href="./" class="list-group-item disable-hover-effect">
 										<div id="module-search-wrap" class="visible-lg visible-desktop">
-							<input type="text" id="module-search" data-provide="typeahead" placeholder="Search" autocomplete="off" class="form-control">
+							<input type="text" id="module-search" data-provide="typeahead" placeholder="Search" autocomplete="off" >
 							</div>
 						</div>
                     </div>

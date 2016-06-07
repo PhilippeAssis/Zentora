@@ -827,25 +827,25 @@ li.module-box-body {
 /* END tooltip */
 
 /* search in navbar thing */
-/*#module-search-wrap{*/
-    /*width: 230px;*/
-    /*margin: 10px 0 -5px 0;*/
-    /*position: relative;*/
-    /*z-index: 999;*/
-/*}*/
+#module-search-wrap{
+    width: 230px;
+    margin: 10px 0 -5px 0;
+    position: relative;
+    z-index: 999;
+}
 
-/*#module-search {*/
-    /*width: 230px;*/
-	/*border: 1px solid #cccccc;*/
-	/*border-radius: 4px;*/
-	/*height: 30px;*/
-/*}*/
+#module-search {
+    width: 230px;
+	border: 1px solid #cccccc;
+	border-radius: 4px;
+	height: 30px;
+}
 
-/*#module-search {*/
-	/*background-color: #fff;*/
-	/*color: #000;*/
-	/*padding: 4px 4px 4px 4px;*/
-/*}*/
+#module-search {
+	background-color: #fff;
+	color: #000;
+	padding: 4px 4px 4px 4px;
+}
 
 .tt-hint {
 	padding: 5px 4px 4px 3px;
