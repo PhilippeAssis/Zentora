@@ -5,7 +5,7 @@
 		<meta http-equiv="Content-Type" content="text/html; charset=utf-8"> 
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
 		<link href="<# ui_tpl_assetfolderpath #>global-css/bootstrap.min.css" rel="stylesheet" type="text/css">
-		<link href="<# ui_tpl_csspath #>" rel="stylesheet" type="text/css">
+		<link href="<# ui_tpl_assetfolderpath #>css/SkyBlue.css" rel="stylesheet" type="text/css">
 		
 		<script src="<# ui_tpl_assetfolderpath #>js/jquery-1.11.1.min.js"></script>
 		<script src="<# ui_tpl_assetfolderpath #>js/jquery.cookie.js"></script>
