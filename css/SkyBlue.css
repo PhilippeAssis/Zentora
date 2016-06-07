@@ -3,3 +3,7 @@
 .navbar {
 	background-color: #6d90a7;
 }
+
+.navbar-default .navbar-nav>.open>a, .navbar-default .navbar-nav>.open>a:hover, .navbar-default .navbar-nav>.open>a:focus{
+	color: #ffffff;
+}
